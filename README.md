@@ -1,1 +1,1 @@
-# Fraudulent-credit-card-transaction-analysis
+Applied the implementation of Binomial Logistic Regression Algorithm in the ‘ROCR’ package on the PCA (Principal Component Analysis) transformed Credit Card Fraud dataset(highly skewed). This model training is subject to minimal threshold cutoff probability and dominated True Negative Rate, to highlight the non fraud classifications.
